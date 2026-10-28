@@ -4,13 +4,13 @@ I am a passionate **Full Stack Web Developer** and a Software Engineering Studen
 
 ### 🚀 About Me
 - 🎓 Currently pursuing ACCP AI Software Engineering Diploma.
-- 💻 Skilled in building dynamic websites using PHP and MySQL.
+- 💻 Skilled in building dynamic websites using PHP, MySQL, and the MERN Stack.
 - 🌱 Always eager to learn new technologies and improve my coding skills.
 
 ### 🛠️ Tech Stack & Skills
-- **Frontend:** HTML5, CSS3, Bootstrap, JavaScript, Angular
-- **Backend:** PHP, C#, ASP.NET MVC
-- **Database:** MySQL, SQL Server
+- **Frontend:** HTML5, CSS3, Bootstrap, JavaScript, Angular, React.js
+- **Backend:** PHP, C#, ASP.NET MVC, Node.js, Express.js
+- **Database:** MySQL, SQL Server, MongoDB
 - **Tools:** Git, GitHub, VS Code, XAMPP
 
 ### 🌟 Featured Project
