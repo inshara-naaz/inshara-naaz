@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Inshara Naaz! 👋
 
-<!--
-**inshara-naaz/inshara-naaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **Full Stack Web Developer** and a Software Engineering Student at Aptech. I love building responsive, user-friendly, and database-driven web applications.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 Currently pursuing ACCP AI Software Engineering Diploma.
+- 💻 Skilled in building dynamic websites using PHP and MySQL.
+- 🌱 Always eager to learn new technologies and improve my coding skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Frontend:** HTML5, CSS3, Bootstrap, JavaScript, Angular
+- **Backend:** PHP, C#, ASP.NET MVC
+- **Database:** MySQL, SQL Server
+- **Tools:** Git, GitHub, VS Code, XAMPP
+
+### 🌟 Featured Project
+**FreshMart - Grocery E-Commerce Website**
+A complete e-commerce platform with a customer store and an admin panel.
+👉 [Check out the Repository](https://github.com/inshara-naaz/FreshMart-Grocery-Store)
+
+### 📫 How to reach me
+- **LinkedIn:** [inshara-naaz](https://linkedin.com/in/inshara-naaz)
+- **Email:** insharanaz902@gmail.com
