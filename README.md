@@ -13,11 +13,15 @@ I am a passionate **Full Stack Web Developer** and a Software Engineering Studen
 - **Database:** MySQL, SQL Server, MongoDB
 - **Tools:** Git, GitHub, VS Code, XAMPP
 
-### 🌟 Featured Project
-**FreshMart - Grocery E-Commerce Website**
-A complete e-commerce platform with a customer store and an admin panel.
-👉 [Check out the Repository](https://github.com/inshara-naaz/FreshMart-Grocery-Store)
+### 🌟 Featured Projects
+1. **FreshMart - Grocery E-Commerce Website** (PHP, MySQL)
+   👉 [Check out the Repository](https://github.com/inshara-naaz/FreshMart-Grocery-Store)
 
+2. **Artistic Management System** (C#, ASP.NET MVC)
+   👉 [Check out the Repository](https://github.com/inshara-naaz/Artistic-Management-System)
+
+3. **Swift Courier Management System** (PHP, MySQL)
+   👉 [Check out the Repository](https://github.com/inshara-naaz/Swift-Courier-Management-System)
 ### 📫 How to reach me
 - **LinkedIn:** [inshara-naaz](https://linkedin.com/in/inshara-naaz)
 - **Email:** insharanaz902@gmail.com
